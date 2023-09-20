@@ -1,0 +1,14 @@
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\bin\Debug\net6.0\calcularAreaTriangulo.exe
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\bin\Debug\net6.0\calcularAreaTriangulo.deps.json
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\bin\Debug\net6.0\calcularAreaTriangulo.runtimeconfig.json
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\bin\Debug\net6.0\calcularAreaTriangulo.dll
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\bin\Debug\net6.0\calcularAreaTriangulo.pdb
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.AssemblyInfo.cs
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.dll
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\refint\calcularAreaTriangulo.dll
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.pdb
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\calcularAreaTriangulo.genruntimeconfig.cache
+C:\Users\itsoporte\Desktop\pruebaCrudProductosMvc\calcularAreaTriangulo\calcularAreaTriangulo\calcularAreaTriangulo\obj\Debug\net6.0\ref\calcularAreaTriangulo.dll
